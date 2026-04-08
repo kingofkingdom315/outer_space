@@ -26,8 +26,8 @@
   ],
   "version": "2.0.0",
   "compatibility": {
-    "minimum": 11,
-    "verified": "11.315"
+    "minimum": 13,
+    "verified": "13.350"
   },
   "esmodules": ["module/outer_space.mjs"],
   "styles": ["css/outer_space.css"],
@@ -41,7 +41,7 @@
   "packs": [],
   "packFolders": [],
   "socket": false,
-  "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
+  "manifest": "https://github.com/kingofkingdom315/outer_space/blob/Master/system.json",
   "download": "https://github.com/kingofkingdom315/outer_space/archive/refs/heads/Master.zip",
   "background": "systems/outer_space/assets/anvil-impact.png",
   "gridDistance": 5,
