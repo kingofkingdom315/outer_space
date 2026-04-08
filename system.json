@@ -12,7 +12,7 @@
       "discord": "King"
     }
   ],
-  "url": "Replace this with a link to your public repository",
+  "url": "https://github.com/kingofkingdom315/outer_space.git",
   "license": "LICENSE.txt",
   "readme": "README.md",
   "bugs": "Replace this with a link to file issues or tickets",
@@ -42,7 +42,7 @@
   "packFolders": [],
   "socket": false,
   "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
-  "download": "This must link to a .zip file of the current version",
+  "download": "https://github.com/kingofkingdom315/outer_space/archive/refs/heads/Master.zip",
   "background": "systems/outer_space/assets/anvil-impact.png",
   "gridDistance": 5,
   "gridUnits": "ft",
